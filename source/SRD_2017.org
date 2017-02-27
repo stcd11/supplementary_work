@@ -1,0 +1,168 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: SRD 2017
+#+AUTHOR: Clinton Delport
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/stcd11/Supplementary Work">Fork me on GitHub</a>
+        </div>
+</div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="https://github.com/stsb11/supplementary_work/index.html">Menu</a></li>
+    </ul>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* SRD Work - 2017 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Year 7 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You've been using html and css to build your own web-pages.
+- You can also use html and css to create logos and graphics for your web-page, but it's a little tricky to do without some help.
+- Go to [[http://html-generator.weebly.com/css-shape-generator.html#007BFFy1z-76z-27z17z0][This html generator site]]
+- Use the simple tools to create a graphic for your web-page.
+- You can then copy and paste the generated html into a page of your own.
+** Year 8 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Click on this [[https://www.bournetocode.com/projects/8-CS-AI/pages/6_lesson.html][link]] and complete the tasks set for your AI SRD work.
+
+** Year 8 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You have learned three classes of levers in lessons.  The most common use of levers is to create a mechanical advantage in order to assist in an action, as seen with pliers, door handles, pry bars, staplers, and wheelbarrows. 
+*Your Work*
+1. Find out what mechanical advantage means.
+2. Use three examples, for each, describe the mechanical advantages it provides AND explain what happens when the distance between the fulcrum and the effort changes. For example, what is the mechanical advantage of a wheelbarrow? What happens when the person who pushes the wheelbarrow holds the wheelbarrow’s handles closer to the load?
+
+** Year 9 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Later this year you will be designing and building your own electric drag car.
+- Electric cars have been around for many years; you will need to research this.
+- Click on the link, [[https://bournetoinvent.com/projects/9-SC-Flyer/1.html][Bournetoinvent]], you will be able to read up on the history of the electric car.
+- Complete the Silver and Gold badges for week 1, 'The Delport Flyer' and upload your work to [[http://www.bournetolearn.com][www.bournetolearn.com]].
+** Year 9 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Open Scratch by clicking on [[https://scratch.mit.edu/projects/editor/][this]] link.
+- Once inside the project, click the green flag icon (top-middle of screen) to run the program.
+- Replace the 'Square' command with 'Pentagon', as directed on the page.
+- *TASK:* Make the program draw a pentagon. Upload a screenshot of your code and of the shape.
+- Swap the 'pentagon' command for 'pattern'. Think about how this works.
+- *TASK:* Modify the code to make a program to draw a pattern of your own.
+  - You could have something made from 50 triangles
+  - Or a square, then a pentagon one after the other before rotating a bit and repeating
+  - Or you could change the pen colour a bit after each shape is drawn.
+- Remember - you can't break anything, so don't be afraid to experiment.
+- Upload a screenshot of your best pattern AND a shot of your code to BourneToLearn.
+
+** Year 9L - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Open you [[https://www.codeacademy.com][CodeAcademy]] account and continue with the JavaScript module for an hour.
+
+** Year 10 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with the coursework development of your level crossing project.
+** Year 12 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Write up your research on the pros and cons of national security versus right to privacy using recent prominent cases.
+- Click on [[http://www.bbc.co.uk/search?q%3Dprivacy%2520law][this]] link for examples.
+** Year 12 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with your coursework write-up.
+** Year 13 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with your coursework write-up.
+** Year 13 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with your coursework write-up.

@@ -14,11 +14,10 @@
 </div>
 #+END_HTML
 
-* [[file:pages/SRD_2016.html][SRD Work 2016]]
+* [[file:pages/SRD_2017.html][SRD Work 2017]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
-:END:      
-
+:END:     
 * [[file:pages/Lesson2.html][CodeAcademy]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
