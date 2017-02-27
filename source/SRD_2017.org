@@ -8,7 +8,7 @@
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/stcd11/Supplementary Work">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/supplementary_work">Fork me on GitHub</a>
         </div>
 </div>
 <div id="stickyribbon">
