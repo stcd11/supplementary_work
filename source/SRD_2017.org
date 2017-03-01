@@ -95,11 +95,22 @@
 - Go to [[http://html-generator.weebly.com/css-shape-generator.html#007BFFy1z-76z-27z17z0][This html generator site]]
 - Use the simple tools to create a graphic for your web-page.
 - You can then copy and paste the generated html into a page of your own.
+** Year 7 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Read and play the short videos on http://www.bbc.co.uk/schools/gcsebitesize/design/systemscontrol/mechanismsrev4.shtml .
+- Explain how the 'follower' works using *4* different shapes of cams from below.
+[[./images/Cams_SRD_2017.jpg]]
+- Once this is complete, please read the following website, http://www.bbc.co.uk/schools/gcsebitesize/design/systemscontrol/mechanismsrev4.shtml .
+- Please explain how a spur gear works.
 ** Year 8 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Click on this [[https://www.bournetocode.com/projects/8-CS-AI/pages/6_lesson.html][link]] and complete the tasks set for your AI SRD work.
+- You have been learning about Artificial Intelligence.
+- Click here  https://bournetocode.com/projects/8-CS-AI/pages/6_Lesson.html to learn about ‘State-space Searches’.
+- Hand in your work for the SRD badge in the AI topic on [[https://www.bournetolearn.com][www.bournetolearn.com]]  
 
 ** Year 8 - Systems & Control
 :PROPERTIES:
