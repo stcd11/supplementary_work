@@ -14,7 +14,7 @@
 </div>
 #+END_HTML
 
-* [[file:pages/SRD_2017.html][SRD Work 2017]]
+* [[file:pages/SRD_2018.html][SRD Work 2018]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:     
