@@ -117,7 +117,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Continue with the coursework development of your level crossing project.
-** Year 10 - Systems & Control
+** Year 11 - Systems & Control
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
