@@ -106,10 +106,12 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- You have learned three classes of levers in lessons.  The most common use of levers is to create a mechanical advantage in order to assist in an action, as seen with pliers, door handles, pry bars, staplers, and wheelbarrows. 
+- In term 4, you will learn about levers. There are three classes of levers, The most common use of levers is to create a mechanical advantage in order to assist in an action, as seen with pliers, door handles, pry bars, staplers, and wheelbarrows. 
+- More can be read about lever in the [[https://bournetoinvent.com/projects/9-SC-Mechanisms/pages/1_Lesson.html][Mechanisms]] project. (click on the link to read more).
 *Your Work*
 1. Find out what mechanical advantage means.
 2. Use three examples, for each, describe the mechanical advantages it provides AND explain what happens when the distance between the fulcrum and the effort changes. For example, what is the mechanical advantage of a wheelbarrow? What happens when the person who pushes the wheelbarrow holds the wheelbarrow’s handles closer to the load?
+3. Once complete, upload your work to 8.4 Practical Mechanisms - SRD Work on [[https://bournetolearn.com/LoginForm.php][www.bournetolearn.com]] (it is the last badge in the topic).
 
 ** Year 9 - Design Engineering
 :PROPERTIES:
