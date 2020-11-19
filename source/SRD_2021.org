@@ -90,18 +90,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-  1. Complete the following sentence:
-   A CAM changes ___ ___ ___ _____ motion (a rotating motion) to __ __ ___ ___ motion (one that moves in a straight line). They are found in many machines and toys.
-  2. Sketch and explain a simple CAM. Label the profile and follower.
-  3. Describe and sketch a device that has a CAM as part of its mechanism.
-  4. Explain the following terms:
-    One Cycle, Dwell, The Rise
-  5. What is meant by ‘the fall’? You may wish to include a diagram to help explain this term.
-  6. Sketch the following types of follower:
-     Flat Follower, Point/Knife Follower, Roller Follower, Offset Follower
-
-- If you need help, click on the following [[http://www.technologystudent.com/cams/cam1.htm][link]]
-- Once complete, upload your work to the SRD badge on  [[https://bournetolearn.com/LoginForm.php][www.bournetolearn.com]] under the Mighty Mechanisims 'SRD work' badge.
+- Please click on the link below to download the document required for the work.
+- [[./images/Y7_PRM_Work.pdf][Year 7 work for PRM]]
+- This work will use Circuit Lab, as can be seen below.
+[[./images/Circuit_Lab.jpg]]
 ** Year 8 - Design Engineering
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
